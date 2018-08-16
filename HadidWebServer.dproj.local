@@ -1,0 +1,14 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<BorlandProject>
+	<Transactions>
+    <Transaction>2018/05/13 22:16:13.000.511,=D:\zz\Unit1.pas</Transaction>
+    <Transaction>2018/05/31 21:25:48.000.193,=D:\zz\Unit1.pas</Transaction>
+    <Transaction>2018/05/31 21:45:05.000.780,=D:\zz\Unit1.pas</Transaction>
+    <Transaction>2018/08/15 20:00:04.000.664,=D:\zz\Unit3.pas</Transaction>
+    <Transaction>2018/08/15 20:00:23.000.055,=D:\zz\Unit1.pas</Transaction>
+    <Transaction>2018/08/15 20:03:14.000.426,D:\zz\Unit1.pas=F:\HttpServer\Unit1.pas</Transaction>
+    <Transaction>2018/08/15 20:03:14.000.426,D:\zz\Unit1.dfm=F:\HttpServer\Unit1.dfm</Transaction>
+    <Transaction>2018/08/15 20:03:23.000.071,D:\zz\Project1.dproj=F:\HttpServer\HttpServer.dproj</Transaction>
+    <Transaction>2018/08/15 23:46:37.000.061,F:\HttpServer\HttpServer.dproj=F:\HttpServer\HadidWebServer.dproj</Transaction>
+  </Transactions>
+</BorlandProject>
