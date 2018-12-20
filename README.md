@@ -21,3 +21,4 @@ Notice: index.html is default doc.
 
 # Advanced
 you can run multi instance of HadidWebServer in one server if you set multi-port.
+if you use Internet Download Manager then set Max Connection as your Internet Download Manager conn number at options.
